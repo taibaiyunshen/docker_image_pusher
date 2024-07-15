@@ -1,4 +1,6 @@
 #支持私库
 #支持指定架构
-node:lts
-node:20.15
+#node:lts
+#node:20.15
+ollama:latest
+
