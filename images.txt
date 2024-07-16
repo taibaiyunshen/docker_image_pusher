@@ -3,4 +3,5 @@
 #node:lts
 #node:20.15
 #pytorch/pytorch:2.3.1-cuda11.8-cudnn8-devel
-vllm/vllm-openai:v0.5.2
+#vllm/vllm-openai:v0.5.2
+qwenllm/qwen:latest
