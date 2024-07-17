@@ -7,4 +7,5 @@
 #qwenllm/qwen:latest
 #intel/oneapi:latest
 #dyrnq/open-webui:latest
-martialbe/one-api:latest
+#martialbe/one-api:latest
+justsong/one-api:v0.6.8-alpha.3
